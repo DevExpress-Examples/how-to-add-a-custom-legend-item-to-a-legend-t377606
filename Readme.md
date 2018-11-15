@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/CustomLegendItemSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/CustomLegendItemSample/MainWindow.xaml))**
+<!-- default file list end -->
 # How to: Add a Custom Legend Item to a Legend
 
 
