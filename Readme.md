@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T377606)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# How to: Add a Custom Legend Item to a Legend
+# Chart for WPF - Add a Custom Legend Item to a Legend
 
 
 This example demonstrates how to add a custom legend item to a legend.
@@ -14,7 +14,7 @@ To do this, create a new instance of the [CustomLegendItem](https://docs.devexpr
 
 
 <!-- default file list -->
-## Files to Look At
+## Files to Review
 
 * [MainWindow.xaml](./CS/CustomLegendItemSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/CustomLegendItemSample/MainWindow.xaml))
 <!-- default file list end -->
