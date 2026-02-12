@@ -24,7 +24,7 @@ To do this, create a new instance of the [CustomLegendItem](https://docs.devexpr
 
 - [CustomLegendItem](https://docs.devexpress.com/WPF/DevExpress.Xpf.Charts.CustomLegendItem)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-charts-add-custom-legend-item-to-legend&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-charts-add-custom-legend-item-to-legend&~~~was_helpful=no)
 
